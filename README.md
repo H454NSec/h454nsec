@@ -3,7 +3,7 @@
 <h1 align="center">I'm H454N</h1>
 <h3 align="center">Python | WebDev | Cyber Security | Ai</h3>
 <img align="right" alt="Coding" width="250" src="mark.gif">
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=h454nsec&label=Profile%20views&color=0e75b6&style=flat" alt="h454nsec" /> </p>
+<p align="left"> <img src="http://counting.atwebpages.com/index.php?username=admin" alt="h454nsec" /> </p>
 
 <p align="left"> <a href="https://twitter.com/h454nsec" target="blank"><img src="https://img.shields.io/twitter/follow/h454nsec?logo=twitter&style=for-the-badge" alt="h454nsec" /></a> </p>
 
